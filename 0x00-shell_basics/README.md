@@ -14,3 +14,4 @@
 12. file command will print the type o the file.
 13. ln -s /bin/ls create a symbolic link.
 14. cp -nu copy new html files from working to mother directory.
+15. mv [[:upper:]]* command to move files with an uppercase letters
