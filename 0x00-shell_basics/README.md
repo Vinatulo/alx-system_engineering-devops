@@ -11,3 +11,4 @@
 9. rm -r will delete the my first directory in tmp.
 10. cd . will change working directory to the previous.
 11. ls -la . .. /boot command will give details of the files in the current to parent directories.
+12. file command will print the type o the file.
