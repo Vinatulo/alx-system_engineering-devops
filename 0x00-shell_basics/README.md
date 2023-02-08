@@ -10,3 +10,4 @@
 8. rm will delete betty from the specified directory.
 9. rm -r will delete the my first directory in tmp.
 10. cd . will change working directory to the previous.
+11. ls -la . .. /boot command will give details of the files in the current to parent directories.
