@@ -5,3 +5,5 @@
 3. ls -l command will display current directory contents in a long format.
 4. ls -la command display current directory contents, including hidden files (starting with .). Use the long format
 5. ls -lna display current directory content
+6. mkdir /tmp/my_first_directory will Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+7. mv /tmp/betty /tmp/my_first_directory will Move the file betty from /tmp/ to /tmp/my_first_directory.
