@@ -1,5 +1,6 @@
 #!/bin/bash
 0. pwd prints the absolute path name of the current working directory.
 1. ls command will print the list of the current directory.
-2. cd commands the change from working directory to the users home directory
+2. cd commands the change from working directory to the users home directory.
 3. ls -l command will display current directory contents in a long format.
+4. ls -la command display current directory contents, including hidden files (starting with .). Use the long format.
