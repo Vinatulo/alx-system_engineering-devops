@@ -13,3 +13,4 @@
 11. ls -la . .. /boot command will give details of the files in the current to parent directories.
 12. file command will print the type o the file.
 13. ln -s /bin/ls create a symbolic link.
+14. cp -nu copy new html files from working to mother directory.
