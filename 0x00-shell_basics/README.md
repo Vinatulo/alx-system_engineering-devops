@@ -17,3 +17,4 @@
 15. mv [[:upper:]]* command to move files with an uppercase letters.
 16. rm *~ deletes all files in the current working directory that end with the character ~.
 17. mkdir -p will Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+18. ls-pamv command that lists all the files and directories of the current directory, separated by commas (,).
