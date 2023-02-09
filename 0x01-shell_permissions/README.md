@@ -4,4 +4,4 @@
 4. sudo chown betty hello - will changes the owner of the file hello to the user betty.
 5. touch hello will creat an empty file.
 6. chmod u+x hello wil add execution permission file hello.
-7. chmod ug+x o+r hello will adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+7. chmod 754  hello will adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
