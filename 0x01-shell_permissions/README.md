@@ -8,4 +8,4 @@
 9. chmod 007 hello will sets the permission to the file hello as follows,Owner: no permission at all,Group: no permission at all,Other users: all the permissions.
 10. chmod 753 hello will sets the mode of the file hello to this.
 11. chmod --reference=olleh hello will sets the mode of the file hello the same as olleh’s mode.
-12. 
+12. chmod -R +111 */ will adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
