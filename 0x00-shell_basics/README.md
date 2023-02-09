@@ -16,3 +16,4 @@
 14. cp -nu copy new html files from working to mother directory.
 15. mv [[:upper:]]* command to move files with an uppercase letters.
 16. rm *~ deletes all files in the current working directory that end with the character ~.
+17. mkdir -p will Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
