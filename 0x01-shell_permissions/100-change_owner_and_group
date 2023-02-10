@@ -1,2 +1,2 @@
-#!/bin/basih
-chown vincent:staff $file
+#!/bin/bash
+chown vincent:staff *
