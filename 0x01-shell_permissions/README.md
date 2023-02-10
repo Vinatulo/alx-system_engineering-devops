@@ -12,3 +12,4 @@
 13. mkdir -m 751 my_dir will creat a directory withpermission 751.
 14 chgrp school hello will changes the group owner to school for the file hello.
 15. telnet towel.blinkenlights.nl will play the StarWars IV episode in the terminal.
+16. chown vincent:staff* will changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
