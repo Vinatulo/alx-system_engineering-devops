@@ -13,3 +13,4 @@
 14 chgrp school hello will changes the group owner to school for the file hello.
 15. telnet towel.blinkenlights.nl will play the StarWars IV episode in the terminal.
 16. chown vincent:staff* will changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+17. chown -h vincent:staff _hello will changes the owner and the group owner of _hello to vincent and staff respectively.
