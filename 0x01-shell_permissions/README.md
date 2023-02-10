@@ -10,4 +10,5 @@
 11. chmod --reference=olleh hello will sets the mode of the file hello the same as olleh’s mode.
 12. chmod -R +111 */ will adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 13. mkdir -m 751 my_dir will creat a directory withpermission 751.
-14 chgrp school hello will changes the group owner to school for the file hello. 
+14 chgrp school hello will changes the group owner to school for the file hello.
+15. telnet towel.blinkenlights.nl will play the StarWars IV episode in the terminal.
