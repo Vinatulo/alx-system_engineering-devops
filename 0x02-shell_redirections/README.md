@@ -9,4 +9,6 @@
 9. ls -la > file.txt will print the result in the file.txt.
 10. tail -n 1 < iacta >> iactai.
 11. find . -type f -name ".js" -delete.
-12. find -type d -not '.' | wc -l
+12. find -type d -not '.' | wc -l.
+13. ls -t1 | head
+
