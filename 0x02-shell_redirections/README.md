@@ -16,3 +16,5 @@
 16. grep -i "bin" /etc/passwd | wc -l
 17. grep -iA 3 "root" /etc/passwd
 18. grep -v "bin" /etc/passwd
+19. grep -i '^[a-z]'/etc/ssh/sshd_config
+
