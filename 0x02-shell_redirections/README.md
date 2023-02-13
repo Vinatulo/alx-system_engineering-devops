@@ -18,5 +18,5 @@
 18. grep -v "bin" /etc/passwd
 19. grep -i '^[a-z]'/etc/ssh/sshd_config
 20. tr "A" "Z" | tr "c" "e"
-
+21. tr -d "Cc"
 
