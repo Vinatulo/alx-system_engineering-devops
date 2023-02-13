@@ -11,4 +11,7 @@
 11. find . -type f -name ".js" -delete.
 12. find -type d -not '.' | wc -l.
 13. ls -t1 | head
+14.
+15. grep -i "root" /etc/passwd
+16. grep -i "bin" /etc/passwd | wc -l
 
