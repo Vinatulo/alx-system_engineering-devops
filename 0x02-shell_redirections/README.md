@@ -14,4 +14,5 @@
 14.
 15. grep -i "root" /etc/passwd
 16. grep -i "bin" /etc/passwd | wc -l
-
+17. grep -iA 3 "root" /etc/passwd
+18. grep -v "bin" /etc/passwd
