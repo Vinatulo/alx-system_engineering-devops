@@ -20,4 +20,6 @@
 20. tr "A" "Z" | tr "c" "e"
 21. tr -d "Cc"
 22. rev
+23. cut -d ":" -f1,6 /etc/passwd | sort
+
 
